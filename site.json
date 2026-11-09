@@ -10,13 +10,13 @@
     "b": "#6b3fa0"
   },
   "favicon": {
-    "kind": "emoji",
+    "kind": "letter",
     "letter": "D",
     "emoji": "🧠",
-    "colour": "#f24a2e"
+    "colour": "#f9d3e0"
   },
   "published": {
-    "id": "e19e91a5-7adb",
-    "at": "2026-11-09T20:45:29.870Z"
+    "id": "ac32e524-3e95",
+    "at": "2026-11-09T20:49:34.291Z"
   }
 }
