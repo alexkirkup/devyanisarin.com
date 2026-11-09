@@ -1,0 +1,22 @@
+{
+  "schema": 1,
+  "template": "quiet",
+  "name": "Devyani Sarin",
+  "line": "Hello! Welcome to my little corner of the internet.",
+  "links": [],
+  "colours": {
+    "preset": "aurora",
+    "a": "#4fe0c4",
+    "b": "#7a5cff"
+  },
+  "favicon": {
+    "kind": "letter",
+    "letter": "D",
+    "emoji": "🧠",
+    "colour": "#f24a2e"
+  },
+  "published": {
+    "id": "e7a9ebe9-3463",
+    "at": "2026-11-09T20:26:34.902Z"
+  }
+}
