@@ -1,22 +1,22 @@
 {
   "schema": 1,
-  "template": "quiet",
+  "template": "synapse",
   "name": "Devyani Sarin",
-  "line": "Hello, world!",
+  "line": "Neuroscience researcher.",
   "links": [],
   "colours": {
-    "preset": "blush",
-    "a": "#ffb2c4",
-    "b": "#6b3fa0"
+    "preset": null,
+    "a": "#fcc6ec",
+    "b": "#50086e"
   },
   "favicon": {
     "kind": "letter",
     "letter": "D",
     "emoji": "🧠",
-    "colour": "#f9d3e0"
+    "colour": "#fcc3de"
   },
   "published": {
-    "id": "ac32e524-3e95",
-    "at": "2026-11-09T20:49:34.291Z"
+    "id": "16ad8378-48b9",
+    "at": "2026-11-09T20:54:51.870Z"
   }
 }
