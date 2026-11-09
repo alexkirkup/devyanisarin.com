@@ -1,0 +1,22 @@
+{
+  "schema": 1,
+  "template": "quiet",
+  "name": "Devyani Sarin",
+  "line": "Hello, world!",
+  "links": [],
+  "colours": {
+    "preset": "blush",
+    "a": "#ffb2c4",
+    "b": "#6b3fa0"
+  },
+  "favicon": {
+    "kind": "emoji",
+    "letter": "D",
+    "emoji": "🧠",
+    "colour": "#f24a2e"
+  },
+  "published": {
+    "id": "e19e91a5-7adb",
+    "at": "2026-11-09T20:45:29.870Z"
+  }
+}
