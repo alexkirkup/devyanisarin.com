@@ -3,7 +3,12 @@
   "template": "quiet",
   "name": "Devyani Sarin",
   "line": "Neuroscience researcher.",
-  "links": [],
+  "links": [
+    {
+      "label": "LinkedIn",
+      "url": "https://www.linkedin.com/in/devyani-sarin/"
+    }
+  ],
   "colours": {
     "preset": null,
     "a": "#ff4013",
@@ -16,7 +21,7 @@
     "colour": "#e32400"
   },
   "published": {
-    "id": "d45ae1e3-a0cd",
-    "at": "2026-11-10T11:43:26.776Z"
+    "id": "44ad158e-f4c1",
+    "at": "2026-11-10T11:47:27.432Z"
   }
 }
