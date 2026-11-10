@@ -1,8 +1,8 @@
 {
   "schema": 1,
   "template": "quiet",
-  "name": "Devyani Sarin",
-  "line": "Neuroscience researcher.",
+  "name": "Hi! I'm Devyani Sarin",
+  "line": "I'm a systems neuroscience researcher interested in the intersection of sleep, memory formation, and role of neuromodulators in coordinating population-level neural activity.",
   "links": [
     {
       "label": "LinkedIn",
@@ -21,7 +21,7 @@
     "colour": "#e32400"
   },
   "published": {
-    "id": "8f8d04ab-eea0",
-    "at": "2026-11-10T11:49:12.648Z"
+    "id": "e479b98c-fd82",
+    "at": "2026-11-10T11:54:00.062Z"
   }
 }
